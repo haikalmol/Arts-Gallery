@@ -1,4 +1,4 @@
-# Frontend Mentor - Art gallery website
+# Art gallery website
 
 ![Design preview for the Art gallery website coding challenge](./preview.jpg)
 
@@ -27,8 +27,3 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## What I learned
 This was one of my favorite projects to work on; I loved it! It challenged me to push my grid skills even further and aim for pixel perfection. I have been really enjoying these Frontend Mentor projects.
-
-## Useful Tools
-1. Figma [Figma](https://www.figma.com/ "Figma").
-2. Adobe XD [Adobe XD](https://www.adobe.com/products/xd.html "Adobe XD").
-3. Firefox Developer Edition [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/ "Firefox Developer Edition").
